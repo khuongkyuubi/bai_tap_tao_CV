@@ -1,0 +1,12 @@
+* {
+    /*margin: auto;*/
+    width: 600px;
+    line-height: 15px;
+    font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+}
+.header {
+    margin: auto;
+}
+.body {
+    margin-left: 50px;
+}
