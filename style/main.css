@@ -8,12 +8,12 @@
     margin: auto;
 }
  #avatar {
-    width: 120px;
-     border-radius: 50%;
+    width: 120px;border-radius: 50%;
     position: relative;
-    top: 120px;
+    top: -5px;
     left: 30px;
-     display: inline;
+     /*display: inline-block;*/
+     float: left;
 
 }
 .body {
